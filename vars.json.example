@@ -1,0 +1,16 @@
+{
+    "vsphere_server": "vcenter.lab.local",
+    "vsphere_user": "user@lab.local",
+    "vsphere_password": "S3cret!",
+    "vsphere_template_name": "ubuntu-18.04",
+    "vsphere_folder": "lab/templates",
+    "vsphere_dc_name": "DC1",
+    "vsphere_compute_cluster": "DC1_cluster",
+    "vsphere_host": "dc1-esx-01.lab.local",
+    "vsphere_portgroup_name": "lab_portgroup",
+    "vsphere_datastore": "DC1_datastore",
+    "cpu_num": "1",
+    "mem_size": "1024",
+    "disk_size": "32768",
+    "os_iso_path": "[ISO] Linux/ubuntu-18.04.1-server-amd64.iso"
+}

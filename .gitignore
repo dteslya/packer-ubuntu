@@ -1,0 +1,5 @@
+# VS Code
+**.vscode/*
+
+# Packer vars
+vars.json
